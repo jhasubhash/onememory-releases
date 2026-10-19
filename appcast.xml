@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OneMemory</title>
+    <link>https://github.com/jhasubhash/onememory-releases</link>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Mon, 19 Oct 2026 19:20:54 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>OneMemory now updates itself. It checks for new versions in the background; you can also choose Check for Updates… from the menu bar, or turn automatic checks off in Settings › General.</li><li>New About section in Settings, with the version, licence and acknowledgements, and an About OneMemory item in the menu.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onememory-releases/releases/download/v0.1.1/OneMemory-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="A5lQUJ3jfR5oU6Au3C5L4RtNqhFKJ9pimKZ3/e4O6rW/25BLseT3+SZ6Uf+ENollJViqQt0GiG2KgRr0m97zBQ==" length="11930165"/>
+    </item>
+  </channel>
+</rss>
