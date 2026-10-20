@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onememory-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.2</title>
+      <pubDate>Tue, 20 Oct 2026 04:34:13 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Better suggestions: a new on-device engine that searches whole phrases, so suggestions are right more often and run longer.</li><li>Tab accepts the next word, ⇧Tab accepts the whole suggestion, and ⌥Tab types a real Tab.</li><li>Suggestions take the conversation on screen into account, and the next one is ready before you press Tab again.</li><li>OneMemory can learn from what you write (redacted, with the same retention and forget controls as captures), with its own switch in Settings.</li><li>Phone numbers are suggested whole, and names and jargon you use aren&#x27;t treated as misspellings.</li><li>No suggestions in search boxes and small fields, and long suggestions wrap within the field.</li><li>Model downloads resume after a lost connection or a quit, and are verified before use.</li><li>The app opens without the &quot;Apple could not verify OneMemory&quot; warning when copied out of the DMG offline.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onememory-releases/releases/download/v0.1.2/OneMemory-0.1.2.dmg" type="application/octet-stream" sparkle:edSignature="hl2MSlKBGwdXMA/m3qxIb5J6G5Tbzx0y7n3wZRRJ3A9E+og9kDCaXHP3t91dXCp3EHxnnnFjYRCDxRqlq/skCQ==" length="12143551"/>
+    </item>
+    <item>
       <title>Version 0.1.1</title>
       <pubDate>Mon, 19 Oct 2026 19:20:54 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
