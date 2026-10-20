@@ -5,6 +5,15 @@
     <link>https://github.com/jhasubhash/onememory-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.3</title>
+      <pubDate>Tue, 20 Oct 2026 11:29:35 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Knowledge folder: give OneMemory your own facts (&quot;Key: value&quot;), past queries and known names, and suggestions finish them, including long hostnames and names that used to be cut off.</li><li>Questions answered from memory: channel and project names, links you&#x27;ve seen, ticket codes, and dates (&quot;garage sprint dates?&quot; suggests the dates from the invite).</li><li>Answers learn from you: an answer you take with Tab ranks higher next time, one you dismiss with Esc lower.</li><li>Answer engines: local services on your Mac can answer questions inline (Settings › Engines).</li><li>Long suggestions with no place to wrap, such as a search URL, now show cut with &quot;…&quot; instead of not at all; Tab still types all of it.</li><li>Finishing a question by typing through a suggestion now asks again for an answer.</li><li>Names split by a page&#x27;s line wrapping are joined back together.</li><li>The excluded apps list in Settings updates as soon as you add or remove an app.</li></ul>]]></description>
+      <enclosure url="https://github.com/jhasubhash/onememory-releases/releases/download/v0.1.3/OneMemory-0.1.3.dmg" type="application/octet-stream" sparkle:edSignature="tXo8kAi+sGwc/5lwy3TPUj1zJLvyByYqEg4DTmVmywJCqzjL8NmjyDM8p3RCEIGKpE/qsdb4ket1eSFLZGQADg==" length="12360140"/>
+    </item>
+    <item>
       <title>Version 0.1.2</title>
       <pubDate>Tue, 20 Oct 2026 04:34:13 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
